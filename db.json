@@ -1,0 +1,34 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "Ulfat",
+        "checked": true
+      },
+      {
+        "id": 2,
+        "username": "Sevil",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "username": "Nermin",
+        "checked": true
+      },
+      {
+        "id": 41,
+        "username": "Ulfat2",
+        "checked": true
+      },
+      {
+        "id": 62,
+        "username": "Sevil2",
+        "checked": false
+      },
+      {
+        "id": 63,
+        "username": "Nermin2",
+        "checked": true
+      }
+    ]
+  }
